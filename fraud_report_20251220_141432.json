@@ -1,0 +1,12 @@
+{
+  "timestamp": "2025-12-20T14:14:32.820329",
+  "summary": {
+    "total": 23,
+    "blocked": 0,
+    "approved": 23,
+    "average_risk": 0.18299147826086956,
+    "avg_confidence": 0.8273913043478262
+  },
+  "alerts": [],
+  "transactions_processed": 0
+}

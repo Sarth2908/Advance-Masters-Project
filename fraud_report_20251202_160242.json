@@ -1,0 +1,27 @@
+{
+  "timestamp": "2025-12-02T16:02:42.618248",
+  "summary": {
+    "total": 75,
+    "blocked": 2,
+    "approved": 73,
+    "average_risk": 0.14138976,
+    "avg_confidence": 0.8660666666666672
+  },
+  "alerts": [
+    {
+      "id": "T4163089",
+      "time": "2025-12-02T16:01:47.858243",
+      "risk": 0.45734600000000003,
+      "amount": 1146.92,
+      "location": "Berlin"
+    },
+    {
+      "id": "T4752798",
+      "time": "2025-12-02T16:02:34.944566",
+      "risk": 0.46976100000000004,
+      "amount": 1395.22,
+      "location": "Dubai"
+    }
+  ],
+  "transactions_processed": 0
+}
